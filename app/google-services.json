@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "365886371429",
+    "firebase_url": "https://listview-ec884-default-rtdb.firebaseio.com",
+    "project_id": "listview-ec884",
+    "storage_bucket": "listview-ec884.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365886371429:android:207cf67980fd76e667388c",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationsemester2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365886371429-davuh1np15mnom73vcqa6egvhvh4enhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWI0zHQaY067ackToz9t9JAgsAqq7AvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365886371429-davuh1np15mnom73vcqa6egvhvh4enhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
